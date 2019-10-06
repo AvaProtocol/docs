@@ -66,3 +66,6 @@ Javascript代码库均需要使用 es2015,stage-2 preset代码格式
 1. 创建了PR之后，自己一定先在PR审阅所有更改过的代码，在给别人审阅之前保证代码符合规范。
 1. Merge的时候需要Squash merge，把在这个分支之上的所有commit打包一起送到master
 1. Merge之后需要在远程删除分支branch
+
+
+如对本文档有任何修改建议，请直接修改并PR。
