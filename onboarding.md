@@ -30,4 +30,13 @@ Please install and prepare below software for development.
 * __Chrome Devtools__ for Node.js debugging
 Type `chrome://inspect/` in Chrome address bar and click on "Open dedicated DevTools for Node"
 
+## Parse教程
+我们Javascript的后端使用 Express + Parse搭建。Parse提供对MongoDB的数据读取，多编程语言API接口，并封装了用户注册登录和权限系统，是Facebook的开源项目，帮助我们快速搭建后端服务。官方的英文文档写的简单易懂，推荐阅读。
+
+### 文档
+1. 英文Javascript: https://docs.parseplatform.org/js/guide/
+1. 中文简略教程: https://parse-zh.buzhundong.com/
+
+
+## 合作与补充
 如对本文档有任何修改建议，请直接修改并PR。
