@@ -58,6 +58,7 @@ Javascript代码库均需要使用 es2015,stage-2 preset代码格式
 
 ### 代码提交
 1. Git commit和PR的标题需要解释清楚这个Change/PR是做什么，加了什么功能，或者解决了什么问题，常用句式"Fixed a problem where ..."，如果字数很少可以写上文件路径，最少字数20字。强制git-commit hook限制，https://gist.github.com/leocaseiro/be1e82ebd68edf18f613433a68861672
+> 补充：PR里需要写上 "Fix <Issue Number>"
 1. 写的新功能，或者修的bug，在代码提交之前务必经过自己手动测试，保证代码在各种情况下是正常工作的
 1. 每个功能，或者bug的修复都需要创建一个新的branch，然后在Github创建Pull Request，提交给文件的owner和项目的owner进行审阅.
     - 如果有任何的Request Change，必须修改之后进行重审
