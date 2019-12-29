@@ -56,6 +56,10 @@ Javascript代码库均需要使用 es2015,stage-2 preset代码格式
 1. Production代码里不能出现注释的代码，不用的代码就删掉
 1. Production代码里不能出现console.log的代码，调试的代码测试好了再提交
 
+### 常用工具
+以下常用的Js工具函数需要统一使用lodash库的对应函数，为了避免出现 transactions.filter()中transactions object/array undefined的问题。
+.filter(), .includes(), .map(),.filter()
+
 ### 代码提交
 1. Git commit和PR的标题需要解释清楚这个Change/PR是做什么，加了什么功能，或者解决了什么问题，常用句式"Fixed a problem where ..."，如果字数很少可以写上文件路径，最少字数20字。强制git-commit hook限制，https://gist.github.com/leocaseiro/be1e82ebd68edf18f613433a68861672
 补充：__PR里需要写上 "Fix \<Issue Number\>"__
