@@ -16,5 +16,6 @@
 - Mobile - BitPay(iOS & Android) [https://bitpay.com/](https://bitpay.com/)
 
 ## Work with Rootstock Regtest
-[https://github.com/rsksmart/truffle-integration/](https://github.com/rsksmart/truffle-integration/tree/master/truffle)
+In this repo we have tutorials about creating a Rootstock regtest node locally, using Ganache UI interface to monitor node activities, and using truffle command-line to deploy and interact with Smart Contracts.
+[https://github.com/rsksmart/truffle-integration/](https://github.com/rsksmart/truffle-integration/)
 
