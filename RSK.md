@@ -14,6 +14,13 @@ Rootstock Mainnet
 Rootstock Testnet
 [https://explorer.testnet.rsk.co/](https://explorer.testnet.rsk.co/)
 
+## Smart Contracts
+
+RIF Testnet
+[https://explorer.testnet.rsk.co/address/0x19f64674d8a5b4e652319f5e239efd3bc969a1fe]{https://explorer.testnet.rsk.co/address/0x19f64674d8a5b4e652319f5e239efd3bc969a1fe}
+
+T! Testnet
+
 ## Token Faucets
 - BTC Testnet [https://testnet-faucet.mempool.co/](https://testnet-faucet.mempool.co/)
 
