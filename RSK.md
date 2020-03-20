@@ -24,6 +24,8 @@ Testnet:https://explorer.testnet.rsk.co/address/0xcb46c0ddc60d18efeb0e586c17af6e
 Mainnet: https://explorer.rsk.co/address/0xe700691da7b9851f2f35f8b8182c69c53ccad9db
 
 T! Testnet
+0x42ced11891e641f15acae3f540378052c37f5b00
+
 
 ## Token Faucets
 - BTC Testnet [https://testnet-faucet.mempool.co/](https://testnet-faucet.mempool.co/)
