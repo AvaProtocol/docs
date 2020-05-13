@@ -18,6 +18,17 @@ https://public-node.rsk.co
 ### Testnet
 https://public-node.testnet.rsk.co
 
+## Service Endpoints
+### rWallet Service
+Production
+Dogfood
+Documentation
+
+### Taring Service
+Production
+Dogfood
+Documentation
+
 ## Explorer
 
 ### Mainnet
