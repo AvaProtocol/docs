@@ -20,14 +20,35 @@ https://public-node.testnet.rsk.co
 
 ## Service Endpoints
 ### rWallet Service
-Production
-Dogfood
-Documentation
+__Production__
+
+http://34.102.218.12
+ 
+__Dogfood__
+
+http://130.211.12.3
+
+__Documentation__
+
+http://34.102.218.12/apidoc-rwallet
+
+http://130.211.12.3/apidoc-rwallet
+
 
 ### Taring Service
-Production
-Dogfood
-Documentation
+__Production__
+
+Not deploy yet
+
+__Dogfood__
+
+http://34.102.229.1
+
+__Documentation__
+
+http://34.102.229.1/apidoc-taringa
+https://app.swaggerhub.com/apis/tinyyxx/Taringa-API/0.1
+
 
 ## Explorer
 
