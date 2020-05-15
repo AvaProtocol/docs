@@ -83,6 +83,8 @@ https://explorer.testnet.rsk.co/address/0x42ced11891e641f15acae3f540378052c37f5b
 DOC
 https://explorer.testnet.rsk.co/address/0xcb46c0ddc60d18efeb0e586c17af6ea36452dae0
 
+RIF Staking
+https://explorer.testnet.rsk.co/address/0x343fd43197dc7a87df444aa540c58770c70fdc6d
 
 ## Token Faucets
 - BTC Testnet [https://testnet-faucet.mempool.co/](https://testnet-faucet.mempool.co/)
