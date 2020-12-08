@@ -78,8 +78,8 @@
 
 # 参考资料
 
-官网博客翻译：https://polkadot.network/zh-cn/blog/
 初识Polkadot: https://xie.infoq.cn/article/e819ac0c6f60b8b2633484dec
+开发者上手指南: https://substrate.dev/tutorials
 Polkadot混合共识：https://xie.infoq.cn/article/149e09f0f8e00ac23edb8ebd4
 Polkadot Wiki: https://wiki.polkadot.network/docs/zh-CN/learn-launch
-
+官网博客翻译：https://polkadot.network/zh-cn/blog/
