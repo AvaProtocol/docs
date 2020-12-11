@@ -36,7 +36,7 @@
    ```
 
 
-Windows environment needs following steps
+##### How to install Rust on Windows
 - install rust with RUST-INIT.exe
 https://www.rust-lang.org/zh-CN/tools/install
 
