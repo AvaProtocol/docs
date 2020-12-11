@@ -118,6 +118,8 @@
 
 初识Polkadot: https://xie.infoq.cn/article/e819ac0c6f60b8b2633484dec
 
+开发三层介绍：https://medium.com/acalanetwork/acala-unveils-smart-contracts-and-ethereum-compatibility-for-polkadot-defi-588b3891e53d
+
 开发者上手指南: https://substrate.dev/tutorials
 
 Polkadot混合共识：https://xie.infoq.cn/article/149e09f0f8e00ac23edb8ebd4

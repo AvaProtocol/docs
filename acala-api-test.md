@@ -87,6 +87,8 @@ main();
 
 ```
 
+
+
 查询transaction信息
 
 ```
@@ -97,3 +99,18 @@ curl --location --request POST 'https://polkadot.subscan.io/api/scan/extrinsic' 
 }' 
 ```
 
+
+
+参考资料
+
+1. polkadot.js文档
+
+   https://polkadot.js.org/docs/api/start/api.tx
+
+2. subscan文档
+
+   https://docs.api.subscan.io/#extrinsic
+
+3. Substrate 前端开发-1: 用 Polkadot-JS API 轻松搭建前端
+
+   https://zhuanlan.zhihu.com/p/110811972
