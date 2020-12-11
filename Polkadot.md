@@ -76,10 +76,52 @@
 
 
 
+# 相关工具
+
+1. Substrate Portal
+
+   https://console.acala.network
+
+2. Acala apps
+
+   https://apps.acala.network/
+
+3. Subscan： 区块链浏览器
+
+   https://acala-testnet.subscan.io/
+
+4. Faucet robot
+
+   https://riot.im/app/#/room/#acala-faucet:matrix.org
+
+   https://discord.gg/Huh7F4p
+
+
+
+# 开发文档
+
+1. Acala
+
+   https://github.com/AcalaNetwork/Acala/wiki
+
+2. Polkadot.js
+
+   https://polkadot.js.org/docs/
+
+3. Subscan API
+
+   https://docs.api.subscan.io/
+
+
+
 # 参考资料
 
 初识Polkadot: https://xie.infoq.cn/article/e819ac0c6f60b8b2633484dec
+
 开发者上手指南: https://substrate.dev/tutorials
+
 Polkadot混合共识：https://xie.infoq.cn/article/149e09f0f8e00ac23edb8ebd4
+
 Polkadot Wiki: https://wiki.polkadot.network/docs/zh-CN/learn-launch
+
 官网博客翻译：https://polkadot.network/zh-cn/blog/
