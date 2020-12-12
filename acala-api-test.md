@@ -92,7 +92,7 @@ main();
 查询transaction信息
 
 ```
-curl --location --request POST 'https://polkadot.subscan.io/api/scan/extrinsic' \
+curl --location --request POST 'https://acala-testnet.subscan.io/api/scan/extrinsic' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "hash": "0xa77141d36ea177d6ba8cc0a00cdf3db14844925938aad441b4b26d128937f32d"
