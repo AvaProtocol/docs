@@ -34,6 +34,23 @@
    rustup default nightly-2020-10-06
    rustup target add wasm32-unknown-unknown
    ```
+
+
+##### How to install Rust on Windows
+- install rust with RUST-INIT.exe
+https://www.rust-lang.org/zh-CN/tools/install
+
+- install C++ build tools
+https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/
+![](./images/1.jpg)
+
+- install LLVM 10.0.0
+http://releases.llvm.org/download.html
+
+- set up LIBCLANG_PATH environment variable
+![](./images/2.jpg)
+
+
    
 1. Clone and Build
   
