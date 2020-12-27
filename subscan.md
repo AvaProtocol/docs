@@ -61,7 +61,7 @@
       ./acala --base-path /tmp/bob --chain local --bob --port 30334 --ws-port 9945 --rpc-port 9934  --validator --bootnodes /ip4/127.0.0.1/tcp/30333/p2p/12D3KooWNHQzppSeTxsjNjiX6NFW1VCXSJyMBHS48QBmmGs4B3B9
       ```
 
-   1. 启动subscan服务
+   1. 启动Subscan服务
      
       1. 启动Subscan Daemon
 
@@ -88,3 +88,11 @@
       ```
       
       注： 这一步，第一次启动可能会出现浏览器加载很久的情况，多等待一会，多刷新一下。
+
+4. 查看Subscan Daemon日志
+
+   ```
+   tail -f log/substrate_log
+   ```
+
+   
