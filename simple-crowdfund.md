@@ -93,7 +93,7 @@ Polkadot网络插槽拍卖规则，参考以下文章。
 
    在浏览器中打开https://console.acala.network/，设置连接URL为127.0.0.1:9944，点击转换。如下图：
 
-   ![1](/Users/star/devlab/docs/images/1.png)
+   ![1](images/simple-crowdfund/1.png)
 
 
 
@@ -117,7 +117,7 @@ Polkadot网络插槽拍卖规则，参考以下文章。
 
    点击“开发者” - “交易”，左侧下拉框选择simpleCrowdfund，右侧下拉框显示出可调用方法。通过create方法创建一个众筹。
 
-   ![image-20210119225524674](/Users/star/Library/Application Support/typora-user-images/image-20210119225524674.png)
+   ![image-20210119225524674](images/simple-crowdfund/4.png)
 
 3. 查询众筹状态
 
@@ -145,5 +145,5 @@ Polkadot网络插槽拍卖规则，参考以下文章。
 
    点击“开发者” - “链状态”，左侧下拉框选择simpleCrowdfund，右侧下拉框选择funds，填入fundIndex参数，提交。
 
-   ![3](/Users/star/devlab/docs/images/3.png)
+   ![3](images/simple-crowdfund/3.png)
 
